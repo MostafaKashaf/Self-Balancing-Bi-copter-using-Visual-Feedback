@@ -6,4 +6,5 @@
 
 #### In this repo, you can find the hardware design folder which contains all the Solidworks parts and assembly. In the open loops tests folder, you will find some python codes for applying image processing techniques on the captured images. In the closed loop folder, you will find the python codes for using the PID control on the raspberry pi. All technical detalis can be found in the project report folder.
 
-!(img.jpg)
+
+<img width="1280" height="720" alt="img" src="https://github.com/user-attachments/assets/6271e8f6-f7a5-4f1b-bf90-a90977c8cdb2" />
